@@ -10,7 +10,7 @@ https://unityroom.com/games/spring_is_not_comming
 
 実装例の公開が主目的なため、これらとサウンド/フォント/テクスチャ素材はソースから外してあります。
 
-- [DOTWeen](http://dotween.demigiant.com/)
+- [DOTween](http://dotween.demigiant.com/)
 - [UniRx](https://github.com/neuecc/UniRx)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [unityroom-tweet](https://github.com/naichilab/unityroom-tweet)
