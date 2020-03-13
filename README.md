@@ -15,7 +15,7 @@ https://unityroom.com/games/spring_is_not_comming
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [unityroom-tweet](https://github.com/naichilab/unityroom-tweet)
 - [unity-simple-ranking](https://github.com/naichilab/unity-simple-ranking)
-- [npmb_unity](https://github.com/NIFCLOUD-mbaas/ncmb_unity)
+- [ncmb_unity](https://github.com/NIFCLOUD-mbaas/ncmb_unity)
 - [TagNameCreator](http://baba-s.hatenablog.com/entry/2014/02/25/000000)
 - [LayerNameCreator](http://baba-s.hatenablog.com/entry/2014/02/26/000000)
 - [SingletonMonoBehaviour](http://tsubakit1.hateblo.jp/entry/20140709/1404915381)
